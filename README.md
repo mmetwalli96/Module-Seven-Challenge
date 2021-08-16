@@ -9,16 +9,16 @@ The aim of this analysis is to determine the number of retiring employees per ti
 These are four major points that need to be highlighted:
 
 - Most of the retirees are from senior positions like senior staff and engineers (from the figure below). 
-- 
+
 ![Capture 127](https://user-images.githubusercontent.com/59425631/129499771-48c843ff-902d-49eb-8ee6-5f61a00f5695.PNG)
 
 - The number of people retiring is large as more than 30000 employees are going to leave the company (from the figure below). 
-- 
+
 ![Capture 128](https://user-images.githubusercontent.com/59425631/129499856-40803573-bc4d-49ac-88ff-b11763e007ab.PNG)
 
 - Managers are valued in the company and they need them which explains the low number of retirees from management positions (from the figure above).
 - Most of the employees for the mentorship program are in senior positions and lots of experience (from the figure below). 
-- 
+
 ![Capture 130](https://user-images.githubusercontent.com/59425631/129500186-c42e6f86-2904-47e7-b5c0-d0840ea9de55.PNG)
 
 
